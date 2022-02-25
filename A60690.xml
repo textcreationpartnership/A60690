@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of several passages relating to the execution of Sir John Johnston by William Smythies ...</title>
+            <author>Smythies, William, d. 1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60690</idno>
+            <idno type="STC">Wing S4377</idno>
+            <idno type="STC">ESTC R19904</idno>
+            <idno type="EEBO-CITATION">11766881</idno>
+            <idno type="OCLC">ocm 11766881</idno>
+            <idno type="VID">48776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48776)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 548:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of several passages relating to the execution of Sir John Johnston by William Smythies ...</title>
+                  <author>Smythies, William, d. 1715.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Johnston, John, --  Sir, d. 1690.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:48776:1"/>
+            <head>A True Account of ſeveral Paſſages relating to the Execution of Sir <hi>John Johnſton.</hi>
+            </head>
+            <byline>By <hi>William Smythies</hi> Curate of St. <hi>Giles</hi>'s <hi>Cripple-gate.</hi>
+            </byline>
+            <p>I Had forborn this Publication, (notwithſtanding many importu<g ref="char:EOLhyphen"/>nities) if a Printed Paper had not come abroad, which gave a very imperfect, and in ſome things, a very falſe Account con<g ref="char:EOLhyphen"/>cerning Sir <hi>John Johnſton;</hi> with which there was an aſperſion that I was the Pen man of it. I have been likewiſe informed, That the Miniſters who Viſited him in the Priſon, are accus'd, of being too credulous and eaſy to be impos'd upon. And I am ſure, there is great Wrong done to an <hi>Apothecary</hi> in <hi>Newgate-Street.</hi> I have therefore reſolved to a give very juſt Account of Matter of Fact, and no more.</p>
+            <p>On <hi>Thurſday,</hi> the 10th. Inſtant, Sir <hi>John Johnston</hi> ſent an importu<g ref="char:EOLhyphen"/>nate Requeſt to Dr. <hi>W.</hi> beſeeching him, tho' a ſtranger, to grant his Aſſiſtance to a dying Man; to which, the Dr. readily complied: And after he had twice given him the Bleſſed Sacrament, and heard the moſt Solemn repeated Proteſtations of his Innocency; deſired Dr. <hi>F.</hi> to meet him the next day in the Priſon, and to bring ſome other Miniſters with him, which occaſioned my Attendance. When we came to him, the Doctors adjur'd him by all that was Sacred and Terrible, (with ſuch Expreſſions as might have made even an inno<g ref="char:EOLhyphen"/>cent man to tremble) to ſpeak nothing but the Truth; aſſuring him withal that there was very little hope of his obtaining favour, conſi<g ref="char:EOLhyphen"/>dering that many Great Men believed him Guilty of that for which he was Condemned, and many other enormous Crimes. He then gave us an Account concerning the taking away of the Young Heireſs; the Sub<g ref="char:EOLhyphen"/>ſtance of which is contained in this following Letter, which he wrote with his own hand, a little after he had received the Sacrament the third or fourth time, and when he was going to his Execution.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Think it is not amiſs, as a dying Man, to give you a ſhort Account of all my Innocency, and all the Reaſon, I know, they have for bring<g ref="char:EOLhyphen"/>ing me to this untimely End. On <hi>Fryday</hi> Morning, being the Day ſhe was taken away; about Ten of the Clock, Captain <hi>Campbell</hi> and Mr. <hi>Montgomery</hi> came to my Lodging with a Haunch of Veniſon. I asked them what they were going to do with that; Mr. <hi>Montgomery</hi> told me, it was to Treat Madam <hi>Biarly,</hi> and the reſt of the Young Ladies; and that he would have Captain <hi>Campbell</hi> Marryed to one of them this night,
+<pb n="2" facs="tcp:48776:2"/>and asked me if I would go and be a Witneſs to it. I told him, It muſt be by Conſent, or elſe I would have nothing to do with it: He told me, That if he did not procure her Conſent, he would not meddle with it, and ſo we parted, he deſiring me to come and meet him, at ſix of the Clock, at a <hi>Coffee houſe</hi> near his Lodging; which I did, and met Capt. <hi>Campbell</hi> there; and ſome time afterwards, Mr. <hi>Montgomery</hi> came and call'd us to the door, and told us, <hi>The Buſineſs was done.</hi> About Eight of the Clock, Madam <hi>Biarly</hi>'s Coach came by, and they went all away: Capt. <hi>Campbell</hi> called a Coa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h and ſix Horſes, and bid us go in, and ordered the Coach<g ref="char:EOLhyphen"/>man to drive after her Coach, and ſtop in <hi>Great Queen ſtreet.</hi>
+                  </p>
+                  <p>When ſhe was put into the Coach, as I am a Dying Man and now Receiving the Sacrament, I could perceive no Diſcompoſure in her at all; for after ſome Time ſpent [by Mr. <hi>Campbell</hi>] in his <hi>Amours.</hi> She began to talk of my Lord <hi>Argyle,</hi> and told us, That ſhe had ſeen ſome of his Children at <hi>Ham,</hi> and that he was Marryed to the Datcheſs of <hi>Lauderdales</hi> Daughter, and asked him if he were the Second Brother. <g ref="char:V">Ʋ</g>pon ſome Diſcourſe, which I do not well remember, ſhe gave him her Hand that ſhe would Marry him. This good Humour continued ſtill with her; ſo that when the Parſon deſired her to ſay the Words after him, ſhe ſpake with ſo audible a Voice, that the whole People in the Room diſtinctly heard her louder than the Miniſter. After the Cerem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ny was over, it was obſerved, <hi>Her Wedding-Ring</hi> was too big; her Husband told her he would have it changed to morrow: She ſaid, <hi>No, it is not Lucky to change a Wedding-Ring.</hi> At Supper, there was nothing to be obſerved, but an equal Satisfaction betwixt both. When it was ask't her, Whether ſhe inclined to go to Bed, ſhe freely Conſented. Next Morning, when we came and asked them how they Rested, ſhe in particular Anſwered me, <hi>very well.</hi> About Ten of the Clock Mr. <hi>Montgomery</hi> asked her, If ſhe would go to Mr. <hi>Pontac's</hi> to Dinner; ſhe ſaid, <hi>With all her heart:</hi> Where we went, and ſtayed till Four in the Afternoon, and the Houſe full of People. Then we went to our Lodgings, and played at Cards till half an Hour after Nine; then ſhe went to Bed with all the ſeeming Pleaſantneſs imaginable. This is the Truth, and no more, <hi>as I am a Dying Man;</hi> neither truly was it ever my Intention or Deſign to be a Witneſs of any thing that would look like a Force, neither indeed was there any Occaſion for it, ſhe being ſo very frank and Free, of her ſelf, to the Marriage. I have forgot to tell you, That I deſired her in the Coach not to be afraid of any thing; for I told her, there ſhould be no<g ref="char:EOLhyphen"/>thing of Force impoſed upon her: She told me that ſhe was not at all afraid of that. She wrote likewiſe to her Aunt <hi>freely,</hi> a Letter, deſir<g ref="char:EOLhyphen"/>ing ſhe might not be troubled for her, for ſhe was very well with her Husband, Captain <hi>Campbell.</hi> As for her Husband deſiring her to go
+<pb n="3" facs="tcp:48776:2"/>before my <hi>Lord Mayor,</hi> I know nothing of that. I find in the Printed [Seſſion] Paper, they do us a great deal of Injury, in ſaying, That ſhe was forced to bed upon Promiſes, and ſeveral other things. Truly I ne<g ref="char:EOLhyphen"/>ver heard of any ſuch thing till I read it in that Paper, neither do I be<g ref="char:EOLhyphen"/>lieve it.</p>
+               </body>
+            </floatingText>
+            <p>The Truth of what is contained in this Letter, he ſolemnly pro<g ref="char:EOLhyphen"/>teſted upon his frequent Receiving the Sacrament, and likewiſe at the time of the Execution. He told us, that he had not been con<g ref="char:EOLhyphen"/>cerned in the carrying away the Young Gentlewoman, if he had not underſtood by Mr. <hi>Montgomery</hi> that ſhe was willing to be taken from her Aunt, and would make no Noiſe or Diſturbance when it was done. He had a Paper containing the Subſtance of this Letter, ready at his Tryal, but was adviſed, for very obvious Reaſons, not to make uſe of it.</p>
+            <p>That which follows, is a Letter to his Kinſman, occaſion'd by an Information ſecretly given to him, that his Blood would be revenged upon his Proſecutors.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Dear Sir,</salute>
+                  </opener>
+                  <p>BEing now on my Laſt Preparation for <hi>Another World, I</hi> eſteem my ſelf obliged to Communicate to you my laſt Deſires, with Relation to <hi>This. I</hi> thank God, <hi>I</hi> not only freely forgive all who have been Ac<g ref="char:EOLhyphen"/>ceſſary to my Death, but deſire by this my Final Request to my Friends, whom <hi>I</hi> ſhall leave behind, to forgive them all. And therefore muſt beg you in my Name, to Communicate this my Requeſt to them, and to beg them, if they cannot wholly forget who have been my Enemies; yet at leaſt, not to do the leaſt Prejudice to any of them, on my Account. This <hi>I</hi> am very earneſt with you in, and thereby you will much oblige,</p>
+                  <closer>
+                     <signed>Your Friend and Servant, John Johnſton.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>One of the Doctors told him of a Report, That he had Three Months before, agreed with Mr. <hi>Campbell</hi> to ſteal the Young Gen<g ref="char:EOLhyphen"/>tlewoman, and that they were to caſt Lots which ſhould have her, and that he on whom the Lot fell, ſhould give to the other <hi>Three Hundred Pounds.</hi> To this he ſolemnly proteſted, that there was not one Syllable of it true, and that he knew nothing concerning her, till the Morning of that day in which ſhe was Marryed.</p>
+            <p>The ſame Dr. told him of a Report from <hi>Cheſter,</hi> That there was a <hi>Rape</hi> Sworn againſt him. He confeſſed the Truth of it, and gave this following Account. His Souldiers had been ſo affronted by ſeveral of the Townſmen, that the Sentinels could not keep their
+<pb n="4" facs="tcp:48776:3"/>Poſts, without danger of hurt done them, by Stones thrown from the tops of Houſes, and that there was one Gun diſcharged, which had like to have killed one of them: That coming to the <hi>Caſtle</hi> late in the Evening, he ſaw a Man and a Woman ſtanding in a place, which made him ſuſpect ſome ill deſign againſt his Soldiers, where upon he commanded one of his Officers to ſeize them, but the Man eſcaping the Woman only was committed to the <hi>Sarjeant,</hi> till ſhe ſhould diſ<g ref="char:EOLhyphen"/>cover who the Man was, which ſhe did, and the next Morning ſhe was diſcharged: About a Fortnight after this, Sir <hi>John</hi> came to <hi>London</hi> to complain to the King, of ſome Indignities which had been done to him. In the mean time, the Woman ſwore a <hi>Ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> againſt him; but her Conſcience accuſing her, and the <hi>Serjeant,</hi> with others, being a<g ref="char:EOLhyphen"/>ble to Teſtify that Sir <hi>John</hi> came not at her; ſhe confeſſed her wick<g ref="char:EOLhyphen"/>edneſs to ſome Perſons in the Town, and ſaid, that her Brother threatened to kill her, if ſhe did not do it, and deſir'd that ſhe might go into <hi>Ireland</hi> to avoid the conſequence of his diſpleaſure; Sir <hi>John</hi> being informed of this, and having taken her Confeſſion before ſe<g ref="char:EOLhyphen"/>veral Witneſſes, gave her <hi>Five Pounds</hi> to bear her charges. He de<g ref="char:EOLhyphen"/>ſired not to obtain any mercy from God or Man, if upon a Reprieve, till there could be a Return from <hi>Cheſter,</hi> he was not fully Vindicated from that Calumny: And in order to it, one of the Doctors pro<g ref="char:EOLhyphen"/>miſed to write to the Biſhop of <hi>Cheſter,</hi> to intreat him, to examin the Truth of it from ſeveral Perſons of Note in the Town.</p>
+            <p>He bleſſed God, that he had daily performed the Duties of Religion, but lamented, with very great Expreſſions of Grief, that his darling Sin returned upon him. I asked him, If he had not defrauded any; to which he replied, That he had nothing of that guilt in his Conſcience; and took occaſion to thank God, that tho' he had been often Engaged in Duels, yet he had never Kill'd his Combatant, it being his deſire only to overcome, and not to deſtroy.</p>
+            <p>It was thought by ſome, that he prolonged his Speech and his Devoti<g ref="char:EOLhyphen"/>ons at the place of Execution, in hope of a Reprieve. But I am far from thinking ſo, for before he came out of the Priſon, he bleſſed God, that his mind was ſo well ſatisfied and by the grace of God, he was ſo prepared to dye, that if a Reprieve ſhould come, it would do him an injury rather than a kindneſs. And when he came to the place of Execution, one of his Friends told him, by the Coach-ſide, That he then came from the King and no Reprieve could be obtained for him, at which he did not in the leaſt, ſeem to be moved.</p>
+            <p>Some of his Country men told me, That he was Sir <hi>John Johnſton</hi> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Caſcaban,</hi> the ſecond Baronet in <hi>Scotland.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed <hi>December,</hi> 30th. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
